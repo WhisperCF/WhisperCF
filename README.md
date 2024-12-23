@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Chris
 - 👀 I’m interested in macOS and iOS development, with a side of LAMP stack
 - 🌱 I’m currently learning SwiftUI
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Swift and Objective-C projects
 - 📫 How to reach me - I'm on twitter @chrisbftweet
 
 <!---
